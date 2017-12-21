@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PharoRotatingDesktop-Desktop",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DesktopImageRotationPeriod",
+		"WorldInstances"
+	],
+	"instvars" : [
+		"world",
+		"timer"
+	],
+	"name" : "DesktopImageRotator",
+	"type" : "normal"
+}

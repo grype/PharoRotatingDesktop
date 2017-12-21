@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AlphaImageMorph",
+	"category" : "PharoRotatingDesktop-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CrossFadingImageMorph",
+	"type" : "normal"
+}

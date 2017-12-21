@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "AlphaImageMorph",
+	"category" : "PharoRotatingDesktop-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentMorph",
+		"nextMorph",
+		"fadingFactor"
+	],
+	"name" : "FadingImageMorph",
+	"type" : "normal"
+}
