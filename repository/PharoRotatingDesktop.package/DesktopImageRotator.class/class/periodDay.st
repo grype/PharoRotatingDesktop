@@ -1,0 +1,3 @@
+accessing
+periodDay
+	^ PeriodDay

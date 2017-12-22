@@ -2,7 +2,16 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "PharoRotatingDesktop-Desktop",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"PeriodNever",
+		"PeriodMinute",
+		"Period5Minutes",
+		"Period10Minutes",
+		"Period15Minutes",
+		"Period30Minutes",
+		"PeriodHour",
+		"PeriodDay"
+	],
 	"pools" : [ ],
 	"classvars" : [
 		"DesktopImageRotationPeriod",
